@@ -39,7 +39,7 @@ $(document).ready(function () {
 
     // <!-- emailjs to mail contact form data -->
     $("#contact-form").submit(function (event) {
-        emailjs.init("user_TTDmetQLYgWCLzHTDgqxm");
+        emailjs.init("gpp3NZeLk1OhpMT4i");
 
         emailjs.sendForm('contact_service', 'template_contact', '#contact-form')
             .then(function (response) {
@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Security Operations Center", "Digital Forensics", "Incident Response", "Writing", "Digital Risk Protection", "Threat Hunting"],
+    strings: ["Security Operations Center", "Digital Forensics", "Incident Response", "Articles | Research papers | Writing", "Digital Risk Protection", "Threat Hunting"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
