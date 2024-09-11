@@ -1,11 +1,11 @@
 [
     {
         "name": "ELK",
-        "icon": "https://img.icons8.com/?size=48&id=viVPreeQBfSH&format=png"
+        "icon": "https://img.icons8.com/?size=100&id=viVPreeQBfSH&format=png&color=000000"
     },
     {
         "name": "Splunk",
-        "icon": "https://icons8.com/icons/collections/NMtpuUU4IX9M"
+        "icon": "https://img.icons8.com/?size=100&id=49188&format=png&color=000000"
     },
     {
         "name": "NodeJS",
