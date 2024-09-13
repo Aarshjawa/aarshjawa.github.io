@@ -24,8 +24,8 @@
         "icon": "/assets/images/ecih.png"
     },
     {
-        "name": "MaterialUI",
-        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+        "name": "Incident \n Response",
+        /* "icon": "https://img.icons8.com/color/48/000000/material-ui.png" */
     },
     {
         "name": "ChakraUI",
