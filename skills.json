@@ -24,7 +24,7 @@
         "icon": "/assets/images/ecih.png"
     },
     {
-        "name": "Incident \n Response",
+        "name": "Incident Response",
         "icon": "https://img.icons8.com/?size=100&id=ZTIehCeqWmVI&format=png&color=000000"
     },
     {
@@ -37,15 +37,15 @@
     },
     {
         "name": "ParseDMARC",
-        "icon": "/assets/images/parsedmarc_1.png"
+        "icon": "/assets/images/parsedmarc.png"
     },
     {
-        "name": "Sass",
-        "icon": "https://img.icons8.com/color/48/000000/sass.png"
+        "name": "Threat Hunting",
+        "icon": "https://img.icons8.com/?size=100&id=Ci3LPeLxHxXu&format=png&color=000000"
     },
     {
-        "name": "HTML5",
-        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+        "name": "OpenEDR",
+        "icon": "/assets/images/openedr.png"
     },
     {
         "name": "CSS3",
