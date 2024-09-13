@@ -20,8 +20,8 @@
         "icon": "/assets/images/sc200.png"
     },
     {
-        "name": "Android",
-        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
+        "name": "ECIH",
+        "icon": "/assets/images/ecih.png"
     },
     {
         "name": "MaterialUI",
