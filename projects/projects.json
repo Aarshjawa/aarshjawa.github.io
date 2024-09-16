@@ -40,13 +40,13 @@
     }
   },
   {
-    "name": "Instagram MERN",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "name": "MadsCodes",
+    "desc": "Startup website of MadsCodes",
     "image": "instagrammern",
-    "category": "mern",
+    "category": "webapp",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "view": "https://madscodes.netlify.app/",
+      "code": "https://github.com/aarshjawa"
     }
   },
   {
