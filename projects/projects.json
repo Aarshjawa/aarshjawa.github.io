@@ -20,13 +20,13 @@
     }
   },
   {
-    "name": "Weatherly Android",
-    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "name": "Jumping Into CyberSecurity",
+    "desc": "A comprehensive book for understanding, preventing and addressing cyber threats",
     "image": "weatherlyandroid",
-    "category": "android",
+    "category": "published",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/weatherly-android"
+      "view": "https://amzn.in/d/5NbtcGx",
+      
     }
   },
   {
