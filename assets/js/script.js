@@ -15,7 +15,7 @@ $(document).ready(function () {
             document.querySelector('#scroll-top').classList.remove('active');
         }
 
-        // scroll spy
+        // scroll spy fuctionnn
         $('section').each(function () {
             let height = $(this).height();
             let offset = $(this).offset().top - 200;
@@ -29,7 +29,7 @@ $(document).ready(function () {
         });
     });
 
-    // smooth scrolling
+    // smooth scrolling functionnn
     $('a[href*="#"]').on('click', function (e) {
         e.preventDefault();
         $('html, body').animate({
@@ -60,7 +60,7 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Portfolio | Aarsh Jawa";
-            $("#favicon").attr("href", "assets/images/favicon.png");
+            //$("#favicon").attr("href", "assets/images/favicon.png"); 
         }
         else {
             document.title = "Aarsh Jawa";
