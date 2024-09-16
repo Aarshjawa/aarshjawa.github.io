@@ -1,7 +1,7 @@
 [
   {
     "name": "ESPION Keylogger",
-    "desc": "Espion Keylogger is a simple keystroke logger for Windows. Once installed the process goes invisible. A program that records keystrokes and sends them as an email instead of saving the log file on local computer.",
+    "desc": "Espion Keylogger is a simple keystroke logger for Windows. A program that records keystrokes and sends them as an email instead of saving the log file on local computer.",
     "image": "notystackandroid",
     "category": "software",
     "links": {
@@ -11,22 +11,12 @@
   },
   {
     "name": "ALGO EXODUS",
-    "desc": "Algo exodus is here create the strongest passwords which can help your accounts stay secure. GPU-based password-cracking tools will take billions of years to decrypt these passwords.",
+    "desc": "Algo exodus is here create the strongest passwords which can help your accounts stay secure.",
     "image": "sppuprepandroid",
     "category": "webapp",
     "links": {
       "view": "https://www.linkedin.com/in/theaarshjawa",
       "code": "https://github.com/aarshjawa"
-    }
-  },
-  {
-    "name": "NewsBox Android",
-    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
-    "image": "newsboxandroid",
-    "category": "android",
-    "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/newsbox-android"
     }
   },
   {
@@ -90,13 +80,13 @@
     }
   },
   {
-    "name": "JavaScript Projects Website",
-    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "name": "CyberSecurity Space",
+    "desc": "A space dedicated to Cyber Security & Cyber Crime Awareness.",
     "image": "jspro",
     "category": "basicweb",
     "links": {
-      "view": "https://jigar-sable.github.io/JavaScript-Projects",
-      "code": "https://github.com/jigar-sable/JavaScript-Projects"
+      "view": "https://thecybersecurityspace.quora.com/",
+      "code": "https://thecybersecurityspace.quora.com/"
     }
   },
   {
