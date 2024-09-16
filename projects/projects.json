@@ -22,7 +22,7 @@
   {
     "name": "Jumping Into CyberSecurity",
     "desc": "A comprehensive book for understanding, preventing and addressing cyber threats",
-    "image": "book.jpg",
+    "image": "book",
     "category": "published",
     "links": {
       "view": "https://amzn.in/d/5NbtcGx",
@@ -283,46 +283,6 @@
     "name": "KIA Info Website",
     "desc": "Basic KIA webpage displays the info about seltos product range. Specs and Image Gallery.",
     "image": "kiaweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Burger Shop Dummy",
-    "desc": "Basic burger shop webpage allow users to check menu and price. Dummy Order Form.",
-    "image": "burgerweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
-    "category": "basicweb",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-  {
-    "name": "Indian Temples",
-    "desc": "It shows temples of different sectors of India. as user clicks it will redirect to wiki of that temple for info.",
-    "image": "templeweb",
     "category": "basicweb",
     "links": {
       "view": "#",
