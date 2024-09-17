@@ -3,7 +3,7 @@
     "name": "ESPION Keylogger",
     "desc": "Espion Keylogger is a simple keystroke logger for Windows. It records keystrokes & sends them as an email instead of saving on computer.",
     "image": "pswd",
-    "category": "software",
+    "category": "apps",
     "links": {
       "view": "https://www.linkedin.com/in/theaarshjawa",
       "code": "https://github.com/aarshjawa"	
@@ -33,7 +33,7 @@
     "name": "MadsCodes",
     "desc": "Startup website of MadsCodes",
     "image": "madscodes",
-    "category": "webapp",
+    "category": "webprofile",
     "links": {
       "view": "https://madscodes.netlify.app/",
       "code": "https://github.com/aarshjawa"
@@ -43,7 +43,7 @@
     "name": "LetsDefend",
     "desc": "Lets Defend Profile",
     "image": "letsdefend",
-    "category": "published",
+    "category": "webprofile",
     "links": {
       "view": "https://app.letsdefend.io/user/b47m4n",
       "code": "https://app.letsdefend.io/user/b47m4n"
@@ -53,7 +53,7 @@
     "name": "CyberDefenders Profile",
     "desc": "CyberDefenders is a blue team training platform focused on the defensive side of cybersecurity to learn, validate, and advance CyberDefense skills.",
     "image": "cyberd",
-    "category": "published",
+    "category": "webprofile",
     "links": {
       "view": "https://cyberdefenders.org/p/theb47m4n#/challenges",
       "code": "https://cyberdefenders.org/p/theb47m4n#/challenges"
@@ -83,7 +83,7 @@
     "name": "CyberSecurity Space",
     "desc": "A space dedicated to Cyber Security & Cyber Crime Awareness.",
     "image": "quora",
-    "category": "basicweb",
+    "category": "webprofile",
     "links": {
       "view": "https://thecybersecurityspace.quora.com/",
       "code": "https://thecybersecurityspace.quora.com/"
@@ -120,13 +120,13 @@
     }
   },
   {
-    "name": "Revealing soon",
-    "desc": "Revealing soon",
-    "image": "soon",
-    "category": "published",
+    "name": "URL Assistant",
+    "desc": "Extract or Open Multiple URLs with HTTP/HTTPS Or Reveal IP",
+    "image": "extension",
+    "category": "apps",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://chromewebstore.google.com/detail/oplihgjalhbanlonmepbompojffccbpl",
+      "code": "https://chromewebstore.google.com/detail/oplihgjalhbanlonmepbompojffccbpl"
     }
   },
   {
