@@ -40,43 +40,43 @@
     }
   },
   {
-    "name": "Revealing soon",
-    "desc": "*****",
-    "image": "soon",
+    "name": "LetsDefend",
+    "desc": "Lets Defend Profile",
+    "image": "letsdefend",
     "category": "published",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://app.letsdefend.io/user/b47m4n",
+      "code": "https://app.letsdefend.io/user/b47m4n"
     }
   },
   {
-    "name": "Revealing soon",
-    "desc": "****",
-    "image": "soon",
+    "name": "CyberDefenders Profile",
+    "desc": "CyberDefenders is a blue team training platform focused on the defensive side of cybersecurity to learn, validate, and advance CyberDefense skills.",
+    "image": "cyberd",
     "category": "published",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://cyberdefenders.org/p/theb47m4n#/challenges",
+      "code": "https://cyberdefenders.org/p/theb47m4n#/challenges"
     }
   },
   {
-    "name": "Revealing soon",
-    "desc": "******",
-    "image": "soon",
+    "name": "Google's New TLDs",
+    "desc": "Risks and Opportunities: Exploring the Impact of Google's New TLDs",
+    "image": "hakin9",
     "category": "published",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://hakin9.org/risks-and-opportunities-exploring-the-impact-of-googles-new-tlds/",
+      "code": "https://hakin9.org/risks-and-opportunities-exploring-the-impact-of-googles-new-tlds/"
     }
   },
   {
-    "name": "Revealing soon",
-    "desc": "****",
-    "image": "soon",
+    "name": "Medium Articles",
+    "desc": "Articles published on Medium",
+    "image": "medium",
     "category": "published",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://medium.com/@aarshjawa",
+      "code": "https://medium.com/@aarshjawa"
     }
   },
   {
@@ -90,33 +90,33 @@
     }
   },
   {
-    "name": "Revealing soon",
-    "desc": "Revealing soon",
-    "image": "soon",
+    "name": "IJTC publishing",
+    "desc": "An Evaluation of Prevent Hacking all the way through Cyber Security",
+    "image": "ijtc",
     "category": "published",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://www.academia.edu/91264457/An_Evaluation_of_Prevent_Hacking_all_the_way_through_Cyber_Security",
+      "code": "https://www.academia.edu/91264457/An_Evaluation_of_Prevent_Hacking_all_the_way_through_Cyber_Security"
     }
   },
   {
-    "name": "Revealing soon",
-    "desc": "Revealing soon",
-    "image": "soon",
+    "name": "Live Forensicator",
+    "desc": "Live Forensicator An Open Source Forensic Triage Tool",
+    "image": "4n6",
     "category": "published",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://www.academia.edu/91262850/Live_Forensicator_An_Open_Source_Forensic_Triage_Tool",
+      "code": "https://www.academia.edu/91262850/Live_Forensicator_An_Open_Source_Forensic_Triage_Tool"
     }
   },
   {
-    "name": "Revealing soon",
-    "desc": "Revealing soon",
-    "image": "soon",
+    "name": "Academia Publishings",
+    "desc": "All the paper listed here which are published in International Journals",
+    "image": "academia",
     "category": "published",
     "links": {
-      "view": "#",
-      "code": "#"
+      "view": "https://cgcmohali.academia.edu/Aarshjawa",
+      "code": "https://cgcmohali.academia.edu/Aarshjawa"
     }
   },
   {
