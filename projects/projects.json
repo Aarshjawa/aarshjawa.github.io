@@ -22,7 +22,7 @@
   {
     "name": "ESPION Keylogger",
     "desc": "Espion Keylogger is a Simple keystroke logger for Windows. It records keystrokes & sends them as an email instead of saving on computer.",
-    "image": "pswd",
+    "image": "keylogger",
     "category": "apps",
     "links": {
       "view": "https://www.linkedin.com/in/theaarshjawa",
@@ -32,10 +32,10 @@
   {
     "name": "ALGO EXODUS Pswd generator",
     "desc": "Algo exodus is here create the strongest passwords which can help your accounts stay secure.",
-    "image": "keylogger",
+    "image": "pswd",
     "category": "webapp",
     "links": {
-      "view": "https://www.linkedin.com/in/theaarshjawa",
+      "view": "https://algo-exodus.netlify.app/",
       "code": "https://github.com/aarshjawa"
     }
   },
