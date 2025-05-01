@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Security Operations Center", "Digital Forensics", "Incident Response", "Articles | Research papers | Writing", "Digital Risk Protection", "Threat Hunting"],
+    strings: ["Security Operations Center", "Digital Forensics", "Incident Response", "Articles | Research papers | Writing", "Digital Risk Protection", "Threat Hunting - Detection"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
